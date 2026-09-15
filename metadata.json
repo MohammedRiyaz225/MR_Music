@@ -1,0 +1,6 @@
+{
+  "name": "MR Music - Romantic Love Mode",
+  "description": "Romantic love-themed offline-first mobile audio player with velvet rose ambiance, 5-band DSP love equalizer, Telugu romance collection, and local SQLite caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

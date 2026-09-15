@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MR Music</string>
+    <string name="title_activity_main">MR Music</string>
+    <string name="package_name">com.mrmusic.player</string>
+    <string name="custom_url_scheme">com.mrmusic.player</string>
+</resources>

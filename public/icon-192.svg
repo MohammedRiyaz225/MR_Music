@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <linearGradient id="bgGrad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#be123c"/>
+      <stop offset="50%" stop-color="#e11d48"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="48" fill="#0f172a"/>
+  <circle cx="96" cy="96" r="78" fill="url(#bgGrad192)"/>
+  <circle cx="96" cy="96" r="66" fill="#0b0f19" opacity="0.6"/>
+  <path d="M56 98 C56 68, 75 48, 96 48 C117 48, 136 68, 136 98" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <rect x="48" y="94" width="16" height="30" rx="8" fill="#ffffff"/>
+  <rect x="128" y="94" width="16" height="30" rx="8" fill="#ffffff"/>
+  <polygon points="86,82 86,110 112,96" fill="#fb7185"/>
+  <text x="96" y="148" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-weight="900" font-size="16" letter-spacing="1">MR MUSIC</text>
+</svg>
