@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/c88000e8-5281-486b-a81c-58d60
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+## Deployed App Link: https://vercel.com/mohammedriyaz225s-projects/mr-music
