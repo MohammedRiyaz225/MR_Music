@@ -20,4 +20,4 @@ View your app in AI Studio: https://ai.studio/apps/c88000e8-5281-486b-a81c-58d60
    `npm run dev`
 
 
-## Deployed App Link: https://vercel.com/mohammedriyaz225s-projects/mr-music
+## Deployed App Link: https://mr-music.vercel.app/
